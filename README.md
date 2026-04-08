@@ -5,7 +5,7 @@
   <p>
     🌱 Actualmente estoy aprendiendo <strong>Desarrollo Web Full Stack</strong><br>
     🎓 Estudiante de Tecnologías de la Información y Comunicación<br>
-    💼 Buscando oportunidades como Becario / Trainee
+    💼 Buscando oportunidades como Desarrollador Junior Full tack
   </p>
 </div>
 
