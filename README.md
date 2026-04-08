@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>Mi Stack Tecnológico</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" height="60" alt="mis habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,sqlite" height="60" alt="mis habilidades" />
 </div>
 
 <br>
