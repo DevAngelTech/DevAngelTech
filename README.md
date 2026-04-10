@@ -3,10 +3,10 @@
 
 <div align="center">
   <p>
-    💻 Construyendo aplicaciones escalables y sistemas de gestión de extremo a extremo.</strong><br>
-    🎓 Estudiante de Tecnologías de la Información y Comunicación (TICs) en la UNRC.<br>
-    ⚙️ Enfocado en el modelado de bases de datos relacionales, optimización de procesos y escritura de Clean Code.<br>
-    💼 Preparado para aportar resolución de problemas lógicos a equipos corporativos de TI.
+    🎓 Estudiante de Tecnologías de la Información y Comunicación (TICs) en la UNRC.</strong><br>
+    💻 Construyendo aplicaciones escalables y sistemas de gestión de extremo a extremo.<br>
+    💼 Preparado para aportar resolución de problemas lógicos a equipos corporativos de TI.<br>
+    ⚙️ Enfocado en el modelado de bases de datos relacionales, optimización de procesos y escritura de Clean Code.
   </p>
 </div>
 
