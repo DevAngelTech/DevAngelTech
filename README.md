@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋 Soy Angel Flores</h1>
-<h3 align="center">Desarrollador Web en formación | Estudiante de TICs</h3>
+<h3 align="center">Desarrollador Web Fullstack | Especialista en JavaScript y SQL</h3>
 
 <div align="center">
   <p>
-    🌱 Actualmente estoy aprendiendo <strong>Desarrollo Web Full Stack</strong><br>
-    🎓 Estudiante de Tecnologías de la Información y Comunicación<br>
-    💼 Buscando oportunidades como Desarrollador Junior Full tack
+    💻 Construyendo aplicaciones escalables y sistemas de gestión de extremo a extremo.</strong><br>
+    🎓 Estudiante de Tecnologías de la Información y Comunicación (TICs) en la UNRC.<br>
+    ⚙️ Enfocado en el modelado de bases de datos relacionales, optimización de procesos y escritura de Clean Code.<br>
+    💼 Preparado para aportar resolución de problemas lógicos a equipos corporativos de TI.
   </p>
 </div>
 
